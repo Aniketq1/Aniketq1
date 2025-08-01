@@ -1,6 +1,6 @@
-                                                                               HI 👋 I'm Aniket Singh
+ HI 👋 I'm Aniket Singh
 
-                                                                          A Full stack developer from INDIA
+ A Full stack developer from INDIA
 
 
 
