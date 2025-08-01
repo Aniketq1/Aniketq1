@@ -1,16 +1,13 @@
-## Hi there 👋
+ HI 👋 I'm Aniket Singh
 
-<!--
-**Aniketq1/Aniketq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A Full stack developer from INDIA
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on real time chatting Application & Website named chatterly
+- 🌱 I’m currently learning ... web development
+- 👯 I’m looking to collaborate on ... real time websites
+- 📫 How to reach me: ... officialaniketqkiaisa@gmail.com
+- 😄 Pronouns: ...He/him
+
+
